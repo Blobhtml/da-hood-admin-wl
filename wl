@@ -1,10 +1,10 @@
 
 local EgoId = {
-	[3183249424] = true,
+	[3875993115] = true,
 }
 
 local fedId = {
-	[3493918687] = true,
+	[3875993115] = true,
 }
 
 local ThugId = {
