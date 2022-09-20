@@ -23,7 +23,7 @@ local SkidId = {
 }
 
 local DiamondId = {
-	[3220879265] = true,
+	[3875993115] = true,
 }
 
 local EnemyId = {
@@ -351,7 +351,7 @@ function premium()
 		elseif DiamondId[v.UserId] then
 			if v.Character then
 				if v.Character.Parent.Name == 'Players' then
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[💎GAYX ADMIN💎]'..v.DisplayName)
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[💎MONY X ADMIN💎]'..v.DisplayName)
 				end
 			end
 		elseif EnemyId[v.UserId] then
